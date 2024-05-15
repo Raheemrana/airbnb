@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
     <div className="nav">
         <div className="logo">
-            <img src="../Assests/airbnbLogo.svg"/>
+            <img src="Assests/airbnbLogo.svg"/>
         </div>
         <div className="title">
             <h3> Airbnb Experience </h3>
